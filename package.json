@@ -1,0 +1,19 @@
+{
+  "name": "hello-secure-node",
+  "version": "1.0.0",
+  "description": "A Node.js repository with no security vulnerabilities for OSS testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsurge/hello-secure-node.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vsurge/hello-secure-node/issues"
+  },
+  "homepage": "https://github.com/vsurge/hello-secure-node#readme"
+}
